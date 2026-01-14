@@ -21,7 +21,7 @@ export default function About() {
         </p>
 
         <p>
-          <strong>Contact / Feedback:</strong> <a href="mailto:fatimataseer123@gmail.com" className="text-blue-400 hover:underline">your-email@example.com</a>
+          <strong>Contact / Feedback:</strong> <a href="mailto:fatimataseer123@gmail.com" className="text-blue-400 hover:underline">fatimataseer123@gmail.com</a>
         </p>
       </div>
     </div>
